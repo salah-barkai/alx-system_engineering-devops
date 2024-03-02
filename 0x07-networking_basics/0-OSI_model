@@ -1,0 +1,26 @@
+Questions:
+
+1-What is the OSI model?
+
+Set of specifications that network hardware manufacturers must respect
+The OSI model is a conceptual model that characterizes the communication functions of a telecommunication system without regard to their underlying internal structure and technology
+The OSI model is a model that characterizes the communication functions of a telecommunication system with a strong regard for their underlying internal structure and technology
+
+Answer:
+The OSI model is a conceptual model that characterizes the communication functions of a telecommunication system without regard to their underlying internal structure and technology.
+
+2-How is the OSI model organized?
+
+Alphabetically
+From the lowest to the highest level
+Randomly
+
+Answer:
+From the lowest to the highest level.
+
+Now, let's discuss the specific layers you mentioned in your project:
+
+Transport Layer: This layer is responsible for delivering data reliably and orderly between hosts. It typically uses TCP (Transmission Control Protocol) for reliable communication and UDP (User Datagram Protocol) for unreliable, connectionless communication.
+
+Network Layer: This layer is responsible for packet forwarding across network nodes. IP (Internet Protocol) protocols are used for addressing and routing data. Additionally, ICMP (Internet Control Message Protocol) is used for network management and error signaling.
+
